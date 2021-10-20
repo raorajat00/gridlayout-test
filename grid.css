@@ -1,0 +1,33 @@
+.parent {
+    display: grid;
+    grid-template-columns: 200px 100px 100px;
+    grid-template-rows: 50px 50px 50px;
+    border-color: blue;
+}
+
+.child1 {
+    background-color: blue;
+}
+
+.child2 {
+    background-color: green;
+
+}
+
+.child3 {
+    background-color: blue;
+}
+
+
+.child4 {
+    background-color:orange;
+}
+
+
+.child5 {
+    background-color: blue;
+}
+
+.child6 {
+    background-color: yellow;
+}
